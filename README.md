@@ -45,15 +45,18 @@ SQL Injection - One of the most common way hackers such as black hat destroy a c
 ![image](https://github.com/user-attachments/assets/56cc96af-ed2c-436e-90a8-9d24dcb3911d)
 
 
-Numeric Overflow **[Note There is no such file within this code base for this example] - This happens when hackers intentionally input numbers that are higher than the required maximum value of integers within text fields. 
+Numeric Overflow  - This happens when hackers intentionally input numbers that are higher than the required maximum value of integers within text fields. 
+### **[Note There is no such file within this code base for this example]
 
 ![image](https://github.com/user-attachments/assets/5fbf3e48-a105-4479-acb2-332b6710cba4)
 
-Encryption
+
+Encryption - This is a method for developer and engineers to make the code base harder to interpret by potential hackers.
 
 ![image](https://github.com/user-attachments/assets/8da31de8-9dc7-4a97-8450-755d247e997c)
 
-Unit Testing 
+
+Unit Testing - Unit testing is a way to ensure the code base is working and behaving properly per intended owner requirements.
 
 ![image](https://github.com/user-attachments/assets/6e90fe7a-4216-4601-9051-bb207a854b8d)
 
@@ -61,6 +64,8 @@ Unit Testing
 # REFERENCES
 https://www.w3schools.com/sql/sql_injection.asp
 https://www.geeksforgeeks.org/how-to-avoid-integer-overflows-and-underflows-in-cpp/
+https://cloud.google.com/learn/what-is-encryption
+https://learn.microsoft.com/en-us/visualstudio/test/writing-unit-tests-for-c-cpp?view=vs-2022
 
 
 
