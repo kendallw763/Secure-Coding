@@ -10,4 +10,5 @@ The code returned many times will be in JavaScript. To mitigate this, developers
 
 
 SQL Injection 
+
 ![image](https://github.com/user-attachments/assets/56cc96af-ed2c-436e-90a8-9d24dcb3911d)
