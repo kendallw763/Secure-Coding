@@ -44,7 +44,8 @@ SQL Injection - One of the most common way hackers such as black hat destroy a c
 
 ![image](https://github.com/user-attachments/assets/56cc96af-ed2c-436e-90a8-9d24dcb3911d)
 
-Numeric Overflow **[Note There is no such file within this code base for this example] - 
+
+Numeric Overflow **[Note There is no such file within this code base for this example] - This happens when hackers intentionally input numbers that are higher than the required maximum value of integers within text fields. 
 
 ![image](https://github.com/user-attachments/assets/5fbf3e48-a105-4479-acb2-332b6710cba4)
 
@@ -58,6 +59,7 @@ Unit Testing
 
 
 # REFERENCES
+https://www.w3schools.com/sql/sql_injection.asp
 https://www.geeksforgeeks.org/how-to-avoid-integer-overflows-and-underflows-in-cpp/
 
 
